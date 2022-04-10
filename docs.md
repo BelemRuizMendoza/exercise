@@ -7,3 +7,6 @@ Change via my local file: Here I come, editing to pretend a collaboration. Exerc
 Change on GitHub: Here I come, editing to pretend a collaboration. Exercise 9, Pull, Git and GitHub for Writers.
 
 This file belongs to the main branch during exercise eleven. Does not have the languages note.
+
+#This is the kind of things I wouldn't want to commit. So, a stash is needed after saving this.
+The toothbrush requires [need info here].
