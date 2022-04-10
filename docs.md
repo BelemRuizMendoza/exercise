@@ -5,3 +5,5 @@ Note that this toothbrush is totally safe to use for children, adults, or pets.
 Change via my local file: Here I come, editing to pretend a collaboration. Exercise 9, Pull, Git and GitHub for Writers.
 
 Change on GitHub: Here I come, editing to pretend a collaboration. Exercise 9, Pull, Git and GitHub for Writers.
+
+The toothbrush can speak seven different languages.
