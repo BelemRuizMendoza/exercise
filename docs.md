@@ -10,3 +10,6 @@ This file belongs to the main branch during exercise eleven. Does not have the l
 
 #This is the kind of things I wouldn't want to commit. So, a stash is needed after saving this.
 The toothbrush requires [need info here].
+
+#Belonging to the main branch.
+This is a change to create a conflict while merging branches via Git Hub.
